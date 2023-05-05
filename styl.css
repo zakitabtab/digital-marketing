@@ -1,0 +1,33 @@
+ /* main */
+  .main{
+    background-color: #123C69;
+    height: 80vh;
+  }
+  .main .container .row .btn{
+     background-color: aliceblue;
+     color: black;
+     border-radius: 50px;
+     margin-top: 30px;
+  }
+  .main .container .row .btn:hover{
+    background-color: rgb(33, 127, 209);
+    color: white;
+    
+ }
+ /* space */ 
+ .eren{
+    height: 20vh;
+    background-color: rgb(255, 255, 255);
+ }
+   /* work */ 
+    
+
+.work{
+    background-color: #123C69;
+    color: aliceblue;
+}  
+
+/* offer */ 
+ .offer .container .row img{
+   border-radius: 50px;
+ }
